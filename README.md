@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **data analysis and machine learning using Python, SQL and R**
 
-- 👯‍  I‘m collaborating on **Video games sales predictions**
+- 👯‍  I‘m collaborating on **Clustering Bitcoin Gambling Behavior**
 
 - 📫 How to reach me -> luyt2022@outlook.com  or [![Linkedin](https://i.stack.imgur.com/gVE0j.png)Ines LU](https://www.linkedin.com/in/ines-lu/) 
 
