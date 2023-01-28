@@ -10,4 +10,4 @@
 
   -> *Mzyuzfc, T'x Typd WF. L elwpyepo rcloflep wzzvtyr qzc l olel lylwjde tyepcydsta. Awpldp nzyelne xp tq jzf lcp tyepcpdepo ty xj aczqtwp!*
   
-    Answer:[a link](https://github.com/ines-lu/ines-lu/blob/main/encrypted_funfact_ines%20.ipynb)
+    Answer:[encrypted_funfact_ines](https://github.com/ines-lu/ines-lu/blob/main/encrypted_funfact_ines%20.ipynb)
