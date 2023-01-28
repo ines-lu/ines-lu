@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning -> data analysis and machine learning using Python, SQL and R 
 
-- 📫 How to reach me -> luyt2022@outlook.com  or contact me through Linkedin;)
+- 📫 How to reach me -> luyt2022@outlook.com  or [Linkedin](https://www.linkedin.com/in/ines-lu/)
 
 - 😊 Here's an encrypted message using Caesar Cipher encryption method, which indicates a fun fact about me! 
 
