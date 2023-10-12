@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **text mining and data visualization**
+- 🔭 I’m currently working on **The Impact of Blockchain Technology on Virtual Gaming**
 
 - 🌱 I’m currently learning **data analysis and machine learning using Python, SQL and R**
 
